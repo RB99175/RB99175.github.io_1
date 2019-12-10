@@ -1,21 +1,70 @@
-background-image {
-    border: 2px solid black;
-    padding: 25px;
-    background: url(./IMG_0756.jpg);
-    background-repeat: no-repeat;
-    background-size: auto;
+
+div {
+    border: 1px solid black; 
+    padding:20px;
+    /* background: url(./IMG_0756.jpg); */
+    background-size: 900px 800px;
 }
 
 h1 {
-    align-content: center;
-    font-size: 2em;
-    margin-top: 0.23em;
+    color: rgba(139, 44, 0, 0.904);
+    font-family: cursive;
+    font-size: 300%;
+    margin-top: 0.1em;
+    font-weight: Bold;
+    /* background: url(Flag\ pic\ .jpg); */
+}
+
+input[type=submit] {
+    right:100px;
+    background: #0047cc;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #999;
+    font-size: 15px;  
+}
+
+input[type=button] {
+    background: #0047cc;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #999;
+    font-size: 15px;  
+}
+
+input[type=input] {
+    background: #0047cc;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #999;
+    font-size: 15px;  
+}
+
+input[type=reset] {
+    background: #0047cc;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #999;
+    font-size: 15px;  
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px 200px 200px;
+    grid-gap: 3px;
+    background-color: lightgray;
+    display: auto;
+    border: .5px solid black;
+}
+
+.cell {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
     font-weight: bold;
-    color: darkblue;
+    background: rgb(240, 189, 169);
 }
-
-.form-submit-button:hover {
-
-}
-
 
