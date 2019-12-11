@@ -1,39 +1,36 @@
-# RB99175.github.io_1
-Game Name: Trivia ( self-scoring)
 
-# API - https://www.countryflags.io
+# Game : Welcome to the World Flag ( self-scoring)
+
+# How to play this game
+- User will see 10 grids each containg an image for a flag and a drop down menu containing all 10 countries names. 
+- User needs to select the accurate country name which corresponde to that cell and keep moving on till the user is       done with all 10.
+- At the end of the game, User needs to click on the " Get Results" button where the user will see the output.
+- User can close the popup button and can play the game again
 
 
-# Monday- 
--created Header and layout for the game
--look for API to add Flag Names & countries
--Create grids and add each image and options into it
-    -used div class to create girds
-    -used drop down option to add "pick and choose the right answers"
--Created Games Rules button using "input" type 
--Created 'Start Here", Score and Reset button using input type.
--Created a 'Get Result" button using "divs" to hold the quiz and the results.
--Quiz results should pop up on "your score button"
--fomatted the layout using CSS 
+# Link - https://www.countryflags.io
+- this link does not allow to copy the api direclty and use it so I have used the link for 10 countries and flag and created the project.
 
-# Tuseday-
--Will add functionality to generate the quiz, by answering each questions.
-_Need to show the quiz results when someone clicks the submit button.
--will use submitbutton.onclick function to get the results.
--Need to add on submit event on click and run the quiz
-- will work on some more formatting 
+# Plan bronze
+- Defined the project layout using piece of paper
+- looked around for API but since the website did not allow, used image       instead.
+- creating an array of objects to get all the parameters like Country, Flag, and Images
 
-# Wednesday-
--Need to work on "start here button" when the user is ready to start the game
-_Need to work on "Games Rules" button" to add the rules when the user clicks on the button
--Need to work on "Wann try again" button to refersh, when the user clicks on it.
-Will format the refine the styling 
+# Plan Silver 
+- Used console log to make sure array of object are populated correctly
+- Using the for loop populated option for the drop down menu
+- Console log the results to make sure options are populated.
+- Created a function option to populate the flag image, flag name and console log the output
+- created a grid item using div class and drop down options
+- used InnerHTML of the flag grid "div" with the flag grid item
+- Declare the points using submit function which calculates the total score and display the message as per the defined    string instead of calcuating the score
+- Created compare score function between object array and user score 
+- Console log the output using modal popup ( alerts)
 
-# Thursday-
-- Testing all the functionality 
-- adding some fun animation effect or glow objects 
--
-
-# Friday-
-Ready for presentation:)
+# Plan Gold
+- Using CSS need to style the game main page 
+- Need to look for a new functionality and add that to project which I have not learned yet
+- Redefine the view of the page and make it look like a game!
+- Will ask someone to play the game inorder to make sure what other things I can add in this main page.
+- get ready for presentation by thursday evening:)
 

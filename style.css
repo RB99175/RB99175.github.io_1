@@ -1,56 +1,36 @@
+body {
+    background-image: url("anne.jpg");
+}
+
 
 div {
     border: 1px solid black; 
-    padding:20px;
-    /* background: url(./IMG_0756.jpg); */
-    background-size: 900px 800px;
-}
+    box-sizing: content-box;
+} 
 
 h1 {
     color: rgba(139, 44, 0, 0.904);
     font-family: cursive;
     font-size: 300%;
-    margin-top: 0.1em;
+    margin-top: 0.7em;
     font-weight: Bold;
-    /* background: url(Flag\ pic\ .jpg); */
+    text-align: center;
 }
 
-input[type=submit] {
-    right:100px;
-    background: #0047cc;
-    color: #fff;
+button {
+    background: #9ee0ad;
+    color: rgb(72, 69, 235);
     font-family: 'Times New Roman', Times, serif;
-    border: 1px solid #999;
-    font-size: 15px;  
-}
+    border: 2px solid black; 
+    font-size: 25px; 
+    border-radius: 28px; 
+    margin-bottom: 23px;
 
-input[type=button] {
-    background: #0047cc;
-    color: #fff;
-    font-family: 'Times New Roman', Times, serif;
-    border: 1px solid #999;
-    font-size: 15px;  
-}
-
-input[type=input] {
-    background: #0047cc;
-    color: #fff;
-    font-family: 'Times New Roman', Times, serif;
-    border: 1px solid #999;
-    font-size: 15px;  
-}
-
-input[type=reset] {
-    background: #0047cc;
-    color: #fff;
-    font-family: 'Times New Roman', Times, serif;
-    border: 1px solid #999;
-    font-size: 15px;  
 }
 
 .grid {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-columns: 220px 220px 220px 220px 220px;
     grid-template-rows: 200px 200px 200px 200px 200px;
     grid-gap: 3px;
     background-color: lightgray;
@@ -59,11 +39,11 @@ input[type=reset] {
 }
 
 .cell {
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     display: flex;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: bold;
     background: rgb(240, 189, 169);
 }
