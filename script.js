@@ -6,7 +6,7 @@ console.log(flagArray);
 renderFlags();
 
 
-// using a for loop to get the and populating option values for the drop down menu
+// using a for loop to populate option values for the drop down menu
 function createOptions(options) {
   for (var i = 0; i < flagArray.length; i++) {
     options += '<option value="' + flagArray[i].flag + '">' + flagArray[i].countryName + '</option>'
@@ -50,11 +50,11 @@ function onSubmit() {
   }
 //based on the number of points, I have set the string
 if (points >= 7 && points <= 10) {
-  submitStr = "Hurrayyyyyyyy you did an awesome job!"
+  submitStr = "Your score : " + points + " " + "Hurrayyyyyyyy you did an awesome job!"
 } else if (points >= 4 && points <= 6) {
-  submitStr = " Good Job, give it a try again!"
+  submitStr = "Your score : " + points + " " + " Good Job, give it a try again!"
 } else if (points >= 0 && points <= 3) {
-  submitStr = " Keep practising, you will reach your goal for sure!";
+  submitStr = "Your score: " + points + " " + " Keep practising, you will reach your goal for sure!";
 }
   console.log("Points: " + points);
   //alert popsup with previously set string
