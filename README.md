@@ -1,7 +1,7 @@
 
 # Game : Welcome to the World Flag ( self-scoring)
 
-# Software component used
+### Software component used
 - HTML/CSS
 - Javascript
 
