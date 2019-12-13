@@ -1,7 +1,7 @@
 
 # Game : Welcome to the World Flag ( self-scoring)
 
-
+![](https://github.com/RB99175/RB99175.github.io_1/blob/master/worldFlags.png)
 
 
 ## Github Pages  - Check your knowledge
