@@ -48,6 +48,13 @@
 
 ### Reference links
 - https://www.w3schools.com
+    - https://www.w3schools.com/howto/howto_js_countdown.asp
+    - https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+    - https://www.w3schools.com/jsref/met_win_setinterval.asp
+    - https://www.w3schools.com/jsref/met_win_clearinterval.asp- 
 - https://www.udemy.com
-- https://www.pluralsight.com
+     - https://www.udemy.com/course/javascript-from-beginner-to-expert-bring-life-to-your-site/
 - https://www.countryflags.io
+     - <img src="https://www.countryflags.io/be/shiny/64.png">
+
+     
