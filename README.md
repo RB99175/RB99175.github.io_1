@@ -47,15 +47,14 @@
 - Get ready for presentation by thursday evening:)
 
 ## Reference links
-### Links
-            [Links]https://www.w3schools.com/howto/howto_js_countdown.asp
-            [Links]https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
-            [Links]https://www.w3schools.com/jsref/met_win_setinterval.asp
-            [Links]https://www.w3schools.com/jsref/met_win_clearinterval.asp-
-            [Links]https://www.countryflags.io
+- https://www.w3schools.com/howto/howto_js_countdown.asp
+- https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+- https://www.w3schools.com/jsref/met_win_setinterval.asp
+- https://www.w3schools.com/jsref/met_win_clearinterval.asp-
+- https://www.countryflags.io
  
 ### Online Trainings
-            [Links]https://www.udemy.com/course/javascript-from-beginner-to-expert-bring-life-to-your-site/
+- https://www.udemy.com/course/javascript-from-beginner-to-expert-bring-life-to-your-site/
 
 
 
