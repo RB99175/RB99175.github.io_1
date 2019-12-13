@@ -41,7 +41,7 @@
 - Populated the score using modal popup ( alerts)
 
 ### Plan Gold
-- Using CSS -style the game back, set the background. Make the page looks like a game page. 
+- Using CSS -style the game, set the background. Make the page looks like a game page. 
 - Added a new functionality - countdown timer that way user gets only 1 min to finish the game.
 - Tested the game with users to make sure there is no issue.
 - Get ready for presentation by thursday evening:)
