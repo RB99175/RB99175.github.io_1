@@ -1,15 +1,26 @@
 
 # Game : Welcome to the World Flag ( self-scoring)
 
+# Software component used
+- HTML/CSS
+- Javascript
+
+# Versioning
+- Version v.0.0.1 date: December 12th, 2019.
+
+# Authors
+- Roopali Bhandarkar 
+- Software Engineer 
+
 # How to play this game
-- User will see 10 grids each containg an image for a flag and a drop down menu containing all 10 countries names. 
+- User will see 10 grids each containg an image for a flag and a drop down menu containing 10 countries names. 
+- User needs to click on the "Start Game" button and the timer will be kicked off.
+- User will get 60 secs to complete the game and a pop will show up the score after completion of 60 secs.
 - User needs to select the accurate country name which corresponde to that cell and keep moving on till the user is       done with all 10.
-- At the end of the game, User needs to click on the " Get Results" button where the user will see the output.
-- User can close the popup button and can play the game again
 
 
 # Link - https://www.countryflags.io
-- This link does not allow to copy the api direclty so used the link for 10 countries and flag and created the object array.
+- This link does not allow to copy the api direclty so used the link for 10 countries and flag and created the object     array.
 
 # Plan bronze
 - Defined the project layout using piece of paper
@@ -28,8 +39,14 @@
 - Populated the score using modal popup ( alerts)
 
 # Plan Gold
-- Using CSS style the game main page , add animation, design with some        backgrounds. Make it look like a game page 
-- Need to look for a new functionality and add that to project which I have   not learned yet
-- Will test the game inorder to make sure I add missing.
+- Using CSS -style the game back, set the background. Make the page looks like a game page. 
+- Added a new functionality - countdown timer that way user gets only 1 min to finish the game.
+- Tested the game with users to make sure there is no issue.
 - Get ready for presentation by thursday evening:)
+
+# Reference links
+- https://www.w3schools.com
+- https://www.udemy.com
+- https://www.pluralsight.com
+
 
