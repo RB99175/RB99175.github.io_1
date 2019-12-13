@@ -4,7 +4,7 @@
 ![](https://github.com/RB99175/RB99175.github.io_1/blob/master/worldFlags.png)
 
 
-## Github Pages  - Check your knowledge
+## Link to play the game - Check your knowledge
 - https://rb99175.github.io/RB99175.github.io_1/.
 
 
