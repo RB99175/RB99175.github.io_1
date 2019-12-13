@@ -24,10 +24,6 @@
 - User will get 60 secs to complete the game and a pop will show up the score after completion   of 60 secs.
 - User needs to select the accurate country name which corresponde to that cell and keep         moving on till the user is done with all 10.
 
-
-### Link - https://www.countryflags.io
-- This link does not allow to copy the api direclty so used the link for 10 countries and flag  and created the object     array.
-
 ### Plan bronze
 - Defined the project layout using piece of paper
 - Looked around for API but since the website did not allow, used link instead.
@@ -54,6 +50,4 @@
 - https://www.w3schools.com
 - https://www.udemy.com
 - https://www.pluralsight.com
-
-
-
+- https://www.countryflags.io
